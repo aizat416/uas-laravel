@@ -1,5 +1,5 @@
-<p align="center">Jumjumi Asbullah </p>
-<p align="center">Sistem Informasi 2 </p>
+<p align="center">Aizat Wisaksono </p>
+<p align="center">0702192038</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
